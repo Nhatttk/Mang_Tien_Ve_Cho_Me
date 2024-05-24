@@ -99,6 +99,11 @@ SpriteAtlas:
   - {fileID: 2724729235974244310, guid: 7ff9c9f3776e5af4cb1de8cea6d5ea65, type: 3}
   - {fileID: -3730231328235510892, guid: 7ff9c9f3776e5af4cb1de8cea6d5ea65, type: 3}
   - {fileID: -4183513052552599235, guid: 7ff9c9f3776e5af4cb1de8cea6d5ea65, type: 3}
+  - {fileID: 2116768169, guid: c50c7614ff115e14386db102c50853ef, type: 3}
+  - {fileID: -903318805, guid: c50c7614ff115e14386db102c50853ef, type: 3}
+  - {fileID: 1621291638, guid: c50c7614ff115e14386db102c50853ef, type: 3}
+  - {fileID: -1805893171, guid: c50c7614ff115e14386db102c50853ef, type: 3}
+  - {fileID: 1141169086, guid: c50c7614ff115e14386db102c50853ef, type: 3}
   - {fileID: 1939966826, guid: 84c60337eb70b8a4aac4abee833c78ec, type: 3}
   - {fileID: 2018065564, guid: 84c60337eb70b8a4aac4abee833c78ec, type: 3}
   - {fileID: 1036186417, guid: 84c60337eb70b8a4aac4abee833c78ec, type: 3}
@@ -183,6 +188,11 @@ SpriteAtlas:
   - DelegateDrone_TargetLaser_0
   - DelegateDrone_TargetMissile_0
   - DelegateDrone_RadiationBullet_0
+  - Idle_4
+  - Idle_0
+  - Idle_1
+  - Idle_2
+  - Idle_3
   - Delegate_5
   - Delegate_4
   - Delegate_3
